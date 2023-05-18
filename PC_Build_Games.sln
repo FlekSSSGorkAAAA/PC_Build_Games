@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PC_Build_Games", "PC_Build_Games\PC_Build_Games.csproj", "{50BDB2C7-54E3-4BFB-88B9-E0A8C04A6360}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL", "\main\RDP\31П\БеловРА\Downloads\SQL-master\SQL\SQL.csproj", "{54AC7A84-10A0-496E-B251-3024790CD80A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{50BDB2C7-54E3-4BFB-88B9-E0A8C04A6360}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50BDB2C7-54E3-4BFB-88B9-E0A8C04A6360}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50BDB2C7-54E3-4BFB-88B9-E0A8C04A6360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54AC7A84-10A0-496E-B251-3024790CD80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54AC7A84-10A0-496E-B251-3024790CD80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54AC7A84-10A0-496E-B251-3024790CD80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54AC7A84-10A0-496E-B251-3024790CD80A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
